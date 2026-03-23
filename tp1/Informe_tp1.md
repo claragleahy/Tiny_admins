@@ -3,8 +3,8 @@
 
 Integrantes:
 
-*
-*
+* María Clara Gonzalez Leahy
+* 
 * Ignacio J. Vigezzi  
 
 **Profesores:** Miguel Ángel Solinas y Javier Alejandro Jorge
